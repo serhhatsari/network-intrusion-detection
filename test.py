@@ -58,10 +58,10 @@ def test_xp_cmdshell_sql_injection():
 # Example usage
 if __name__ == "__main__":
     test_directory_traversal_attack()
-    #test_sql_injection_attack()
-    #test_command_injection_attack()
-    #test_password_leak()
-    #test_ssh_key_exchange()
+    test_sql_injection_attack()
+    # test_command_injection_attack()
+    # test_password_leak()
+    # test_ssh_key_exchange()
     #test_sql_union_select_injection()
     #test_cross_site_scripting_attack()
     #test_delete_from_sql_injection()
